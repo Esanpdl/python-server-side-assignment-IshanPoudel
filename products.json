@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Bedsheets",
+      "price": 1000,
+      "quantity": 5
+    },
+    {
+      "name": "Pillow",
+      "price": 500,
+      "quantity": 10
+    },
+    {
+      "name": "Curtains",
+      "price": 200,
+      "quantity": 6
+    }
+  ]
